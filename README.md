@@ -144,6 +144,6 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-
+![output](cal.png)
 ## Result:
 
